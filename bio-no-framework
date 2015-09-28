@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title> About Me </title>
+    <meta charset="utf-8"/>  
+    <meta name= "description" content="Alex's Bio"/>
+    <meta name="author" content="Alexandra DePalma"/>
+    <meta http-equiv="content-type" content="text/html">
+    
+    <style>
+      body { 
+              background-color:#E0FFFF;
+              font-family: verdana; color:#000080;
+              padding:15px;
+              font-size:14px}
+      
+    /*headers*/
+      h1, h2, h3 {
+              font-family: Gotham;
+              text-align: left;
+              padding: 5px
+                width: 350px}
+      
+      h1{
+          border-style:groove;
+          text-align: center;
+          background-color:#87CEEB;}
+      
+      h2{font-size:16px}
+      
+      h3 {font-size: 12px}
+      
+   /*links*/
+      li{
+        display: groove;
+        margin-right: 15px;
+      }
+      
+        
+    </style>
+  </head>
+      
+  
+ <body>
+     <article>
+        <h1> <font color= #000080>Hi, I'm Alex </h1>
+          <section> 
+                <figure> <img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/5/005/0ab/1ba/11ebfd5.jpg", style="width: 5em; height: 5em;"/>
+           </figure>
+          
+             <h2> Who I Am </h2>
+                <p>
+                  I am a New England-based undergraduate at the <strong>University of Minnesota</strong> with an expected graduation date of May 2016. I am pursuing a degree in economics, technical writing, &amp; art history.
+                </p>
+          
+               <h3> Some of My Favorite Sites </h3> 
+              <ul>
+                <li> <a href= "https://twitter.com/AlexDePalma93"> Twitter </a> </li>
+                <li> <a href= "http://www.theatlantic.com"> <i>The Atlantic</i> </a>  </li>
+               
+              </ul>
+  
+         </section> 
+    
+         <section>
+             <h2> What I Do</h2>
+               <p>
+ I am a certified data scientist and am currently interning for a technology company in an operations position that utilizes my background in statistics &amp; economics &amp; recently accepted a full time position as a business operations analyst.
+       
+               </p>
+     
+               <h3> Learn More </h3>
+                   <ul>
+                       <li> <a href= "https://www.linkedin.com/in/alexandradepalma"> LinkedIn</a>   </li>
+                       <li> <a href= "https://medium.com/@AlexDePalma93"> Medium </a>   </li>
+                      
+                   </ul>
+         </section>
+         
+  
+   </article>
+   
+     
+    </body>
+    </html>
